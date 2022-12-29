@@ -1,21 +1,3 @@
-# US-Bikeshare-Data Analysis
-
-### Overview
-
-
-### Dataset
-
-
-
-
-## Answering Questions
-The code is written in a functional style to answer tht following:
-1. Count for : Gender, User-type
-2. Traip Duration statistics: Total duration, average duration
-3. Start time related statistics: Most frequent, Day of the week of start time, month
-4. Start and end station staistics: most frequent start and end 
-5. Most frequent trip (start station to end station)
-
 ### Date created
 28-Dec,2022
 

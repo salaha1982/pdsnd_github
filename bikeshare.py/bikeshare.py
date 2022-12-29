@@ -1,18 +1,15 @@
 
 
 ### Bike-Sharing Data Analysis
-**Date : 21 Dec,2022**
+### Date : 21 Dec,2022**
 
-**Loading Libraries**
+### Loading Libraries**
 
 import os
 import time
 import datetime
 import pandas as pd
 import numpy as np
-
-
-# In[2]:
 
 
 # Multiple print statments in a single cell
@@ -23,22 +20,12 @@ InteractiveShell.ast_node_interactivity = "all"
 pd.set_option("display.max_columns", 500)
 pd.set_option("display.min_rows", 500)
 
-
-# In[3]:
-
-
+# Check the current directory
 os.getcwd()
-
-
-# In[7]:
-
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv' }
-
-
-# In[8]:
 
 
 def get_filters():

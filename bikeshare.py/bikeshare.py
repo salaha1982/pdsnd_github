@@ -1,26 +1,13 @@
-#!/usr/bin/env python
-# coding: utf-8
+### Bike-Sharing Data Analysis  
+### Date : 21 Dec,2022
 
-# ## Bike-Sharing Data Analysis
-# 
-# **_Author: <Insert Name>_**
-# 
-# **Date : 21 Dec,2022**
-
-# **Loading Libraries**
-
-# In[1]:
-
+### Loading Libraries
 
 import os
 import time
 import datetime
 import pandas as pd
 import numpy as np
-
-
-# In[2]:
-
 
 # Multiple print statments in a single cell
 from IPython.core.interactiveshell import InteractiveShell
@@ -30,14 +17,8 @@ InteractiveShell.ast_node_interactivity = "all"
 pd.set_option("display.max_columns", 500)
 pd.set_option("display.min_rows", 500)
 
-
-# In[3]:
-
-
+# Check the current directory
 os.getcwd()
-
-
-# In[7]:
 
 
 CITY_DATA = {'chicago': 'chicago.csv',

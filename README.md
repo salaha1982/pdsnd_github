@@ -21,15 +21,9 @@ Gender
 Birth Year
 
 ## Answering Questions
-Through writing code, I'm able to answer the following questions about the bike share data:
-
-What month occurs most often in the start time?
-What day of the week (Monday, Tuesday, etc.) occurs most often in the start time?
-What hour of the day occurs most often in the start time?
-What is the total trip duration and average trip duration?
-What is the most frequently used start station and most frequently used end station?
-What is the most common trip (i.e., the combination of start station and end station that occurs the most often)?
-What are the counts of each user type?
-What are the counts of gender?
-What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
-
+The code is written in a functional style to answer tht following:
+1. Count for : Gender, User-type
+2. Traip Duration statistics: Total duration, average duration
+3. Start time related statistics: Most frequent, Day of the week of start time, month
+4. Start and end station staistics: most frequent start and end 
+5. Most frequent trip (start station to end station)

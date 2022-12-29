@@ -242,10 +242,6 @@ def trip_duration_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
-# In[13]:
-
-
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
@@ -280,10 +276,6 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
-
-# In[14]:
-
 
 # If the user wishes to see a sample of data
 def display_data(df):
@@ -321,9 +313,6 @@ def display_data(df):
     print('-'*40)
 
 
-# In[15]:
-
-
 def main():
     while True:
         city, month, day = get_filters()
@@ -340,15 +329,6 @@ def main():
             break
 
 
-# In[16]:
-
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
-
-

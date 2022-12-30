@@ -1,16 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+### Bike-Sharing Data Analysis
 
-# ## Bike-Sharing Data Analysis
-# 
-# **_Author: <Insert Name>_**
-# 
-# **Date : 21 Dec,2022**
+### Date : 21 Dec,2022
 
-# **Loading Libraries**
-
-# In[1]:
-
+### Loading Libraries
 
 import os
 import time

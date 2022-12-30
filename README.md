@@ -13,15 +13,15 @@ In this project, we do the following:
 ### Files used
 The dataset is from a bike share service provider from US. It contains randomly selected data for the first six months of 2017 for all three cities. <br>
 The data files for all three cities contain the same core six columns:
-Start Time
-End Time
-Trip Duration
-Start Station
-End Station
-User Type
-The Chicago and New York City files also have the following two columns:
-Gender
-Birth Year
+Start Time <br>
+End Time <br>
+Trip Duration <br>
+Start Station <br>
+End Station <br>
+User Type <br>
+The Chicago and New York City files also have the following two columns: <br>
+Gender <br>
+Birth Year <br>
 
 
 ### Credits

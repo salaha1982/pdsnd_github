@@ -10,6 +10,7 @@ In this project, we do the following:
 2. Descriptive Statistics
 3. User-interactive experience
 
+### Files used
 The dataset is from a bike share service provider from US. It contains randomly selected data for the first six months of 2017 for all three cities. <br>
 The data files for all three cities contain the same core six columns:
 Start Time
@@ -22,8 +23,6 @@ The Chicago and New York City files also have the following two columns:
 Gender
 Birth Year
 
-### Files used
-Include the files used
 
 ### Credits
 Git Commands - https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p

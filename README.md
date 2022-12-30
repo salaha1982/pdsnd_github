@@ -27,3 +27,4 @@ The code is written in a functional style to answer tht following:
 3. Start time related statistics: Most frequent, Day of the week of start time, month
 4. Start and end station staistics: most frequent start and end 
 5. Most frequent trip (start station to end station)
+

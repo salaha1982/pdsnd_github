@@ -12,6 +12,7 @@ In this project, we do the following:
 
 ### Files used
 The dataset is from a bike share service provider from US. It contains randomly selected data for the first six months of 2017 for all three cities. <br>
+<br>
 The data files for all three cities contain the same core six columns:
 Start Time <br>
 End Time <br>
